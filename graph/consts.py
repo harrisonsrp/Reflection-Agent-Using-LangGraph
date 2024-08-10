@@ -1,0 +1,2 @@
+DESIGNER = "designer"
+DEVELOPER = "developer"

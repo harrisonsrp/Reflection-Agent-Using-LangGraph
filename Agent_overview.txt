@@ -1,0 +1,8 @@
+# In this project I build an agent with langGraph which is able to get a request from user about generating a website, design the structure, generate a template and improve it based on customer's reflection
+# We have 3 main chains: 1. Customer 2. Designer 3. Developer
+
+# 1. Customer Chain ask the request and give feedback based on his needs
+# 2. Designer Chain design the website based on customer's request and UI/UX knowledge.
+# 3. Developer Chain develop the website based on designer's template
+# 3. At each iteration of graph we feed the Customer feedback of reflection chain to the Designer chain and Designer update the template and send it to developer
+
