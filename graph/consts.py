@@ -1,2 +1,2 @@
-DESIGNER = "designer"
+FEEDBACK = "feedback"
 DEVELOPER = "developer"
